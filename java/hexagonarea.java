@@ -18,4 +18,3 @@ public class hexagonarea {
     return(6*(s*s))/(4*Math.tan(Math.PI/6));
   }
 }
-//link for reference - https://trinket.io/java/b93fe74092
