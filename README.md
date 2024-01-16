@@ -2,7 +2,7 @@
 
 🔸Java Programming   - File(main.java)
 
-🔸python programming - File(.py)
+🔸python programming - File(main.py)
 
 🔸c programming - File(.c)
 
