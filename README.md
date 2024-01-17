@@ -4,6 +4,6 @@
 
 🔸python programming - File(main.py)
 
-🔸c programming - File(.c)
+🔸c programming - File(main.c)
 
 🔸ETC...
